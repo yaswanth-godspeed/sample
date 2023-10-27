@@ -1,3 +1,3 @@
-import { EventSource } from "@godspeedsystems/plugins-express-as-http";
+import { EventSource } from "express_yash";
 
 export default EventSource;
